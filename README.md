@@ -1,6 +1,9 @@
 # StardewMultibyteLanguagesInput
 This is a utility for entering multibyte characters in the PC game ‘Stardew Valley’.
 
+* * *
+Nexus Mods Page ** LINK **
+* * *
 
 ## Overview
 This is an input assist tool for StardewValley. It supports the input of multibyte text required by the in-game IME.
@@ -24,6 +27,7 @@ To run this tool, you must have the following installed:
 ## License
 This project is licensed under the MIT License.
 
+* * *
 
 ## 概要
 StardewValley用の入力補助ツールです。ゲーム中のIMEが必要なマルチバイトテキスト入力をサポートします。
