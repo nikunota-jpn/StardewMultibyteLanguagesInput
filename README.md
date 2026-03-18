@@ -2,7 +2,7 @@
 This is a utility for entering multibyte characters in the PC game ‘Stardew Valley’.
 
 * * *
-Nexus Mods Page ** LINK **
+Nexus Mods Page [** LINK **](https://www.nexusmods.com/stardewvalley/mods/43815 "Stardew Multibyte Languages Input")
 * * *
 
 ## Overview
