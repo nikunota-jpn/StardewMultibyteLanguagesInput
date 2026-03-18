@@ -3,6 +3,7 @@ This is a utility for entering multibyte characters in the PC game ‘Stardew Va
 
 * * *
 Nexus Mods Page [** LINK **](https://www.nexusmods.com/stardewvalley/mods/43815 "Stardew Multibyte Languages Input")
+Download Release Page [** LINK **](https://github.com/nikunota-jpn/StardewMultibyteLanguagesInput/releases/tag/v0.1.0 "v0.1.0")
 * * *
 
 ## Overview
